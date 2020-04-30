@@ -1,0 +1,3 @@
+services:
+  custom_services.user_email:
+    class: Drupal\custom_services\EmailForm
